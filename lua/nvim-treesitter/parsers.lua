@@ -2235,7 +2235,7 @@ list.tsv = {
 
 list.tsx = {
   install_info = {
-    url = "https://github.com/tree-sitter/tree-sitter-typescript",
+    url = "https://github.com/ediezindell/tree-sitter-typescript",
     files = { "src/parser.c", "src/scanner.c" },
     location = "tsx",
     generate_requires_npm = true,
@@ -2262,7 +2262,7 @@ list.twig = {
 
 list.typescript = {
   install_info = {
-    url = "https://github.com/tree-sitter/tree-sitter-typescript",
+    url = "https://github.com/ediezindell/tree-sitter-typescript",
     files = { "src/parser.c", "src/scanner.c" },
     location = "typescript",
     generate_requires_npm = true,
